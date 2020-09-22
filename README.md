@@ -66,7 +66,7 @@ These are the requirements to design your UI.
 
 <img src="./assets/PRO_TIP_1_2.svg" width="100%"/>
 
-[Edit →]()
+[Edit →](https://github.com/MenaiAla/You-Dont-Know-UI/pulls)
 
 </p>
 </details>
