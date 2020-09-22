@@ -23,19 +23,21 @@ I've wasted months not just days trying to create an MVP ( Minimal  Viable Produ
 
 When you start designing a new user interface for a web or mobile application, most of the time you think about the **structure** or the **position** of your components, so you start designing the Header or the Top Navigation as your first component in your UI. Me too I was doing this mistake!
 
+<img src="./assets/PRO_TIP_1_3.svg" width="100%"/>
+
 Do you know why it's a mistake? Because you're limiting yourself from the beginning. Because you're seeing the App Design from Top-To-Down or Down-To-Top while the App Design is a **collection of features**. You're not building a house here using LEGO bricks! But you're building a car and you can start designing the engine or the wheels, right?
 
 Most of the folks try to _copy & paste_ from popular websites and apps, without knowing the Standards or the Design Decisions for each product. This is the easiest way to find themselves _frustrated_, _limited_ and they figure out that they overthink only on _Generic Things_.
 
 They focus on the _shape_ of their app but not the _core features_, and they start asking frequently these questions :
 
-. <i>Where should I put the Logo?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Where should I put the Logo?</i>
 
-. <i>How many items should I have in the navigation bar?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   How many items should I have in the navigation bar? </i>
 
-. <i>Should I have one or two sidebars?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Should I have one or two sidebars?</i>
 
-. <i>Should I have a Grid Layout or a Table of items?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Should I have a Grid Layout or a Table of items?</i>
 
 <img src="./assets/PRO_TIP_1_1.svg" width="100%"/>
 
@@ -51,15 +53,15 @@ Let's say you'll build the next-gen social media app for sharing videos. You cou
 
 The UI will need :
 
-. <i>Field for upload a video</i>
+<i><img src="./icons/icons8_checkmark_24px.png" width="16px"/>   Field for upload a video</i>
 
-. <i>Field for the caption</i>
+<i><img src="./icons/icons8_checkmark_24px.png" width="16px"/>   Field for the caption</i>
 
-. <i>Field for the description</i>
+<i><img src="./icons/icons8_checkmark_24px.png" width="16px"/>   Field for the description</i>
 
-. <i>Button for posting or sharing</i>
+<i><img src="./icons/icons8_checkmark_24px.png" width="16px"/>   Button for posting or sharing</i>
 
-. <i>Button for saving in draft</i>
+<i><img src="./icons/icons8_checkmark_24px.png" width="16px"/>   Button for saving in draft</i>
 
 These are the requirements to design your UI.
 
