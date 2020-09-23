@@ -77,6 +77,7 @@ These are the requirements to design your UI.
 
 <details><summary><b>2. Design few, Implement few, Repeat</b></summary>
 <p>
+
 I have this question for you:
 
 <i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Why do you need to design perfect UI with all details then implement it?</i>
