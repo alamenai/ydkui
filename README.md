@@ -174,7 +174,7 @@ Our purpose here is to prevent the **over investing** and moving fast by doing *
 
 ---
 
-<details><summary><b>3. Less is More</b></summary>
+<details><summary><b>3. Details Matter, But Later</b></summary>
 <p>
 
 <i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Which option will delight the users?</i>
