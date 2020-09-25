@@ -173,3 +173,101 @@ Our purpose here is to prevent the **over investing** and moving fast by doing *
 </details>
 
 ---
+
+<details><summary><b>3. Less is More</b></summary>
+<p>
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Which option will delight the users?</i>
+
+This is the frequent question I ask myself in my work basis. Hope I'm not the only one!
+
+Designers and engineers waste more time on details and minor decisions in the early stage of designing and implementing new UI but they should realize that designing UI is an **iterative process**. In fact, it's better for you to not stick on minor details in the early stage of any task. You don't want to hear from me how many hours or maybe days I spent changing the font size by adding or reducing **1px**.
+
+<img src="./assets/PRO_TIP_3_1.svg"/> 
+
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>  Do you think that users will notice these changes?</i>
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>  Do you think that adding 1px will add more revenue to the company?</i>
+
+Please, don't waste your time on these changes in the early-stage.
+
+From [Speed Dating Decision Making – Why Less Is More:](http://www.scientificamerican.com/article.cfm?id=speed-dating-decision-making-why-less-is-more)
+
+Yet new research does point out a different dating problem: being confronted with a **large number of choices can make it harder to make a good decision**. In fact, it can even prevent you from making a decision in the first place.
+
+When you're designing without constraints, your process will be very slow, and you will never end up with a choice. Let me clarify with this example:
+
+
+<img src="./assets/PRO_TIP_3_2.svg"/> 
+
+As you see in the above image, the first scenario is for a buyer who wants to choose a flower for his wife but he's seeing flowers with different colors and they are almost similar which makes the decision so hard for him. The second scenario is for a designer who gets confused between these buttons where it's almost to see the difference between their background colors.
+
+The fact is when there were **too many choices** people became confused and didn’t make a choice when there were too many options. People that had few options chose more often and were happier with their selection. So, you need to stick this rule in your head: **Limit your choices**.
+
+So how can we limit our choices for our user interfaces?
+
+
+<img src="./icons/icons8_1_key_24px.png" width="16px"/>  Systematize colors:
+
+When I was a student, I remember when we were working on the design of the website with my teammate, and because we had not a system for the colors, we were picking a color randomly each time from the color picker and we see how the color looks in the UI. But after I discovered and read [Material Design](https://material.io/), I figure out how companies choose their colors.
+
+So, instead of hand-picking values randomly, create your palette from the beginning, there are dozens of online generators that can help you to make your decision. You can choose from 6-8 shades and expand when you need more colors.
+
+<img src="./assets/PRO_TIP_3_3.svg"/> 
+
+<img src="./icons/icons8_2_key_24px.png" width="16px"/>  Choose one or two font families:
+
+It's hard to achieve consistency in UI and most of the time **over designing** is the reason behind losing it.
+
+Having more than two font families will make your brand less-memorable like the logo and the content becomes more inconsistent for the reader. Obviously, choosing the font family is very hard in the early stage and my recommendation is **to choose the one that fits the personality of the product.**
+
+
+<img src="./icons/icons8_3_key_24px.png" width="16px"/>  Systematize font size:
+
+Similarly, don't do what I was doing by adding or reducing 1px until it looks perfect. You may waste 2 hours without taking a decision. Instead, create a stylesheet for your typescale in advance.
+
+
+<img src="./assets/PRO_TIP_3_4.svg"/>
+
+
+<img src="./icons/icons8_4_key_24px.png" width="16px"/>  Systematize icon sizes:
+
+Defining a system for the sizes of the icons in advance will save you time later.
+
+For example, you can constraint yourself by 4-based or 6-based scale. Your options will be :
+
+12px, 16px, 20px, 24px, 36px, 48px, 64px.
+
+
+<img src="./assets/PRO_TIP_3_5.svg"/>
+
+
+<img src="./icons/icons8_5_key_24px.png" width="16px"/>  Sytematize opacity values:
+
+Opacity values confuse me a lot because it's so hard to see the difference between them.
+
+Personnally, I choose a 5-based opacity-scale and I limit myself by 4 values:
+
+12.5%, 25%, 50%, 75%.
+
+In CSS3, this is equivalent to:
+
+ ```css
+    opacity:0.125;
+    opacity:0.25;
+    opacity:0.5;
+    opacity:0.75;
+ ```
+
+
+<img src="./assets/PRO_TIP_3_6.svg"/>
+
+Having some choice is better than having no choice at all. But there is a limit. As it turns out, having more choices isn’t always a good thing.
+
+[Edit →](https://github.com/MenaiAla/You-Dont-Know-UI/pulls)
+
+</p>
+</details>
+
+---
