@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="800" width="1280">
+  <defs>
+    <linearGradient id="linearGradient-2" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0.64" stop-color="rgb(186,74,255)" stop-opacity="1"/>
+      <stop offset="1" stop-color="rgb(255,255,255)" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g opacity="1">
+      <g opacity="1">
+        <rect fill="url(#linearGradient-2)" fill-opacity="1" opacity="1" x="0" y="0" width="1280" height="800"/>
+      </g>
+      <g opacity="1">
+        <text font-size="0" transform="translate(60, 80)">
+          <tspan font-size="200" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(255,255,255)" x="0" y="154">You Don't </tspan>
+          <tspan font-size="200" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(255,255,255)" x="0" y="354">Know</tspan>
+        </text>
+      </g>
+      <g opacity="1">
+        <text font-size="0" transform="translate(738, 335)">
+          <tspan font-size="500" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(9,1,13)" x="0" y="385">UI</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
