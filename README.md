@@ -1,20 +1,39 @@
 <div align="center">
-  <img height="200" src="./LOGO.png"> 
-  <h1>You Don't Know UI</h1>
-  <h3>You don't need to be a 10X designer to create universal user interfaces</h3>
+  <img src="./LOGO.svg"> 
+  <h3>Learn how to build universal, modern and scalable user interfaces</h3> 
+</div>
 
 ---
 
-<span>Inspired by [KYLE SIMPSON](https://github.com/getify)'s book [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), I decided to create [You Don't Know UI](https://github.com/You-Dont-Know-UI) which is a DESIGN PRO TIPS dedicated for developers to learn, discuss, contribute together and share the best practices about designing user interfaces.
+<div>
 
-Back to 2017, I started to spent my spare time to learn in-depth about Web Design, Mobile Design, Animation, Micro-Interaction, User Experience and Design Systems by reading several books and articles such as [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://github.com/adamwathan) & [Steve Shoger](https://www.steveschoger.com/), [Invision Design System Handbook](https://www.designbetter.co/design-systems-handbook), [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) by [Brad Frod](https://github.com/bradfrost), [Airbnb Design System](https://github.com/airbnb), asking questions on [User Experience Platform](https://ux.stackexchange.com/), and sharing my personal [prototypes](https://www.behance.net/menaialaeddine) on Behance. Also, I started sharing these Tips 2 months ago on [Linkedin](https://www.linkedin.com/in/alaedddine/) but they are not professional and more detailed like here.
+## :muscle: Motivation
 
+---
 
-From basic to advanced: test how well your UI is modern, consistent, universal, and accessible, refresh your workflow a bit, or enhance the product you're working on! :muscle: :rocket: I update this repo regularly with new PRO TIPS. I added examples to make the explanations more tangible. good luck! :heart:</span>
+<span>Inspired by the title of [KYLE SIMPSON](https://github.com/getify)'s book [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), I decided to create [You Don't Know UI](https://github.com/You-Dont-Know-UI) which is a collection of detailed pro tips about designing and developing modern user interfaces.
+
+Back to 2017, I started to spend my spare time to learn in-depth about Web Design, Mobile Design, Animation, Micro-Interaction, User Experience and Design Systems by reading several books and articles such as [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://github.com/adamwathan) & [Steve Shoger](https://www.steveschoger.com/), [Invision Design System Handbook](https://www.designbetter.co/design-systems-handbook), [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) by [Brad Frod](https://github.com/bradfrost), [Airbnb Design System](https://github.com/airbnb), asking questions on [User Experience Platform](https://ux.stackexchange.com/), and sharing my personal [prototypes](https://www.behance.net/menaialaeddine) on Behance. Also, 2 months ago I started sharing design tips for front-end developers on [Linkedin](https://www.linkedin.com/in/alaedddine/) but they are not professional and more detailed like here.
+
+---
+
+## :bouquet: Value
+
+---
+
+From basic to advanced: test how well your UI is modern, consistent, universal, and accessible, refresh your workflow a bit, or enhance the product you're working on! :muscle: :rocket: I update this repo regularly with new PRO TIPS. I added illustrations to make the explanations more tangible. good luck! :heart:
+
+</span>
 
 </div>
 
---- 
+---
+
+## :rocket: Get Started
+
+---
+
+### How to build your user interfaces from scratch?
 
 <details><summary><b>1. Think in a feature, not a layout</b></summary>
 <p>
@@ -264,6 +283,97 @@ In CSS3, this is equivalent to:
 <img src="./assets/PRO_TIP_3_6.svg"/>
 
 Having some choice is better than having no choice at all. But there is a limit. As it turns out, having more choices isn’t always a good thing.
+
+[Edit →](https://github.com/MenaiAla/You-Dont-Know-UI/pulls)
+
+</p>
+</details>
+
+---
+
+<details><summary><b>4. Create design systems, not pages</b></summary>
+<p>
+
+In my second year of computer science study, our web development teacher gave us a home challenge which is creating a simple dynamic web application with HTML, CSS3, JavaScript, PHP, and MySQL. In fact, I was not a big fan of PHP and MySQL because I like to show people what I made and by nature, people love the **appearance** of the thing. Most of the time I was looking for a way to let my classmates and our teacher say **Wow**! How could you build it? Thank you to JQuery of course.
+
+In the past, before I start any web project, the first step I get used to doing is browsing a **template** that fits the **domain** or the **personality** of the application. I was spending sometimes a **day** to make the decision.
+
+Obviously, finding the right **template** was not a thing to think about it, but customize and edit the source code based on my needs was the hardest challenge for me.
+
+Before I download the template, I was checking the number of **pages**, the weight of each **page**, the structure of **CSS3**, and the complexity of **JavaScript** code. Indeed, I was facing a big problem with **extending** the template by creating my **customizable** pages that looks consistent with others even I use its **CSS3** classes.
+
+I was asking myself:
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>  How long will that page take to build?</i>
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>  How will it looks consistent with other pages?</i>
+
+
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>  How can I extract the components and build new page with them?</i>
+
+
+I was considering the page as an **isolated**, **uniform** thing. The fact is the **components** or the **elements** that make that page **consistent**  are the **uniform**, **isolated** and **quantifiable** thing.
+
+
+<img src="./assets/PRO_TIP_4_1.svg"/>
+
+The image above describes my mindset about web elements. On the left, It's the **monolithic design** and in the right, it's the **modular design**.
+
+### Modular Design
+
+Brad Frost released a book called: The Atomic Design. When you read this book you'll discover how Brad Frost explained the web design inspired by the world of Atoms. What's matters for us now, is how to create **modular** user interfaces that become **maintainable** in the future.
+
+Making your UI modular means breaking the large and complex visual explorations into smaller chunks, called **elements** or **components**, which save us **time**  and make the user interfaces more **consistent**.
+
+With the rise of new methodologies for architecture CSS3 such as BEM, OOCSS, and SMACSS, and the modern frameworks such as Bootstrap, Semantic UI, and Foundation, designers and developers spend less time to design **scalable** and **maintainable** user interfaces.
+
+So these frameworks address the need of **rapid prototyping** by providing **customizable**, **well-tested**, and **ready-to-use** components.
+
+However, even these front-end frameworks provide a _specific_ solution for speed up the development, the end-user interface will be the same for different brands!
+
+This is one of the cons of these frameworks, because everyone uses the same **components** and **layouts** to design the page.  Imagine Facebook, Amazon, and Apple use the same UI framework to build their user interface, you'll find the same UI with different colors!
+
+Furthermore, creating **customizable** components using these frameworks means following their **conventions**, **code structure** and **styleguide**. So the developers need to understand the architecture and the API of these frameworks which means invest more time for learning.
+
+
+### Design Systems, The future of UI development
+
+Do you know [Material Design](https://material.io/design/)? If yes, this is what I'm talking about.
+
+[Alla Kholmatova](https://medium.com/@craftui) said there's not a standard definition of “design system” within the web community and people use the term in different ways, but she defined it as :
+
+> A set of interconnected patterns and shared practices coherently organized to serve the purpose of a digital product. Patterns are the repeating elements that we combine to create an interface: things like user flows, interactions, buttons, text fields, icons, colors, typography, microcopy. Practices are how we choose to create, capture, share, and use those patterns, particularly when working in a team.
+
+So instead of consuming built-in UI patterns from Bootstrap, you'll design and develop your own patterns by creating your own **standards** and **style guide**. If you're deciding to create a social media app, for instance, you'll need to create your own **like**, **comment**, and **share** components that distinguish your application from your competitors. Also, if you'll create **Data Visualization** platform, 
+**charts**, **progress bars** are the most potent component you need to build your user interfaces.  The idea is instead of creating **templates** each time, you'll create your own **UI System** that empowers you to build several products by influencing brand factors. These design patterns will create a mental model for your users and customers.
+
+#### But what are the benefits of design systems?
+
+Before we use any technology or approach we need to know its benefits. Let’s take a look at the many ways a design system can be a much-needed painkiller for your growing pains.
+
+<img src="./icons/icons8_1_key_24px.png" width="16px"/>  Consistency:
+
+
+Standardized components used consistently and repetitively create a more predictable and easy to understand the application. Standardized components also allow designers to spend less time focused on style and more time developing a better user experience.
+
+<img src="./icons/icons8_2_key_24px.png" width="16px"/>  Prototype faster:
+
+
+When your product grows, you need to delight your customers by delivering new features. In the past, this means producing new code and start the development from scratch. But with a design system in place, you need only to iterate and integrate your UI patterns together to develop the feature.
+
+
+<img src="./icons/icons8_3_key_24px.png" width="16px"/>  Quick iterations:
+
+ The design system reduces effort from hundreds of lines of code to as little as a few characters. This makes iterations quick and painless, and experimentation much faster.
+
+
+In conclusion, design systems are not a fad or even an untested hypothesis. For the design to find the scale necessary to match the rapid growth of technology, component-based design and development is a proven and dependable solution.
+
+I've tried to show you the power of design systems and their impact on user interfaces. If you want to learn in-depth about the design systems, I'd recommend these books:
+
+→  [Invision Design System Handbook](https://www.designbetter.co/design-systems-handbook)
+
+→  [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
 [Edit →](https://github.com/MenaiAla/You-Dont-Know-UI/pulls)
 
