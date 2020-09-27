@@ -9,7 +9,6 @@
 
 ## :muscle: Motivation
 
----
 
 <span>Inspired by the title of [KYLE SIMPSON](https://github.com/getify)'s book [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), I decided to create [You Don't Know UI](https://github.com/You-Dont-Know-UI) which is a collection of detailed pro tips about designing and developing modern user interfaces.
 
@@ -18,8 +17,6 @@ Back to 2017, I started to spend my spare time to learn in-depth about Web Desig
 ---
 
 ## :bouquet: Value
-
----
 
 From basic to advanced: test how well your UI is modern, consistent, universal, and accessible, refresh your workflow a bit, or enhance the product you're working on! :muscle: :rocket: I update this repo regularly with new PRO TIPS. I added illustrations to make the explanations more tangible. good luck! :heart:
 
@@ -31,9 +28,10 @@ From basic to advanced: test how well your UI is modern, consistent, universal, 
 
 ## :rocket: Get Started
 
----
 
-### How to build your user interfaces from scratch?
+#### How to build your user interfaces from scratch?
+
+---
 
 <details><summary><b>1. Think in a feature, not a layout</b></summary>
 <p>
