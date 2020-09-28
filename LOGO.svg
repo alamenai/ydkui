@@ -1,26 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="800" width="1280">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="170" width="220">
   <defs>
-    <linearGradient id="linearGradient-2" x1="0.5" y1="0" x2="0.5" y2="1">
-      <stop offset="0.64" stop-color="rgb(186,74,255)" stop-opacity="1"/>
-      <stop offset="1" stop-color="rgb(255,255,255)" stop-opacity="1"/>
-    </linearGradient>
+    <image id="36941e93-7bad-41c7-8f62-706388acc04c" opacity="1" x="0" y="0" width="120" height="120" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABmJLR0QA/wD/AP+gvaeTAAAD20lEQVRYCe2ZwWoTURRA77QiLhSyEFyJ4Lr6E2JX+hUFcWOJ+AP5AlsIuigWf0JQ258QpF26cOXCRUEsUknHG+qiFnJvkvtmXq+c8l4myZ13333nZCadjAh/EIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCDwPxJoSi9qU9q1FZENzftQ+y3tN7XTZhP4rqFvrci+ctvdkuZAXxdrxQSPpL16JPJSK3uqfVU7bXECEx3y+ljkxY40v/V5uBUR/FfuO61metTqhhYksDcQeTyS5iSYR/SsEE0hciQy1izIVQiF2roy3S6RK3wEP5f2nn5/fNJiinxYNA/tjMBEz9f3x9Icnr1c7rGElCc6dYk8moZ2jsCq/iMzZXvurcWfhsXo0ftg8WkZMSeBMNuwYC30tnZaNwTuRNOWEHw9WgTjZxK4MTMyZ6CE4DmnYrcaBBBcg3qPcyK4R9g1pkJwDeo9zongHmHXmArBNaj3OCeCe4TNVBCAAAQgAAEIQAACEIAABCAAAQh0S6CJph9K20ZzXObx29KYjLpevze/x45fsjxCyeMITi7QKx/BHqHkcQQnF+iVj2CPUPI4gpML9MpHsEcoeRzByQV65SPYI5Q8juDkAr3yEewRSh5HcHKBXvkI9ggljyM4uUCvfAR7hJLHrySvv3r50fu1XS+AI7hrwpXzI7iygK6nR3DXhCvnR3BlAV1Pj+CuCVfOj+DKArqeHsFdE66cn+vgoIChtG0whTk8ep3NEWzizR9EcH6H5goQbOLJH0RwfofmChBs4skfRHB+h+YKEGziyR9EcH6H5goQbOLJH0RwfofmChBs4skfRHB+h+YKEGziyR9EcH6H5goQbOLJH+R+cNBh9H5tcHp3OEewiyj3DgjO7c+tHsEuotw7IDi3P7d6BLuIcu+A4Nz+3OoR7CLKvQPXwUF/Q2nbYApzePQ6myPYxJs/iOD8Ds0VINjEkz+I4PwOzRUg2MSTP4jg/A7NFSDYxJM/WELwz/wYLu0KfkQrKyH4a7QIxs8kEGa7MjP1nAH9GefDnLuy2+IE3i8+5N8RYcGa4K2mPNVOK0tgMhGZsg1lVT+h8bIlzWfN8EY7rSyBnbE0h9GUYcHTAgYiz3S7r51WhsCeMh2WSFVE8Eiak4HIIy3olXY9s+gjbRkCU3bjY2U5ZbpMgotjmotvRF9vSrumn5oNTbyuX8x3dXstmrPmeO92XfR2YSvyS3l9UVYfdburX3kHNdfL3BCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgkIPAHzr6VoBvtyP1AAAAAElFTkSuQmCC"/>
+    <pattern id="pattern-3" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox">
+      <use xlink:href="#36941e93-7bad-41c7-8f62-706388acc04c" transform="scale(1,1)"/>
+    </pattern>
   </defs>
-  <g>
+  <g opacity="1">
     <g opacity="1">
-      <g opacity="1">
-        <rect fill="url(#linearGradient-2)" fill-opacity="1" opacity="1" x="0" y="0" width="1280" height="800"/>
-      </g>
-      <g opacity="1">
-        <text font-size="0" transform="translate(60, 80)">
-          <tspan font-size="200" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(255,255,255)" x="0" y="154">You Don't </tspan>
-          <tspan font-size="200" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(255,255,255)" x="0" y="354">Know</tspan>
-        </text>
-      </g>
-      <g opacity="1">
-        <text font-size="0" transform="translate(738, 335)">
-          <tspan font-size="500" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(9,1,13)" x="0" y="385">UI</tspan>
-        </text>
-      </g>
+      <path fill="rgb(112,0,255)" fill-opacity="1" opacity="1" fill-rule="evenodd" d="M5 120L215 120C217.75957512247 120 220 122.24042487753 220 125L220 165C220 167.75957512246998 217.75957512247 170 215 170L5 170C2.2404248775300006 170 8.881784197001252e-16 167.75957512246998 0 165L0 125C0 122.24042487753 2.240424877529999 120 4.999999999999999 120Z"/>
+    </g>
+    <g>
+      <rect fill="url(#pattern-3)" opacity="1" x="50" y="0" width="120" height="120"/>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(30, 136)">
+        <tspan font-size="18" font-family="Helvetica" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(255,255,255)" x="0" y="14">You Don't Know UI</tspan>
+      </text>
     </g>
   </g>
 </svg>
