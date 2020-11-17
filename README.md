@@ -358,7 +358,7 @@ I've tried to show you the power of design systems and their impact on user inte
 <details><summary><b>5. Throw the responsive design in the trash</b></summary>
 <p>
 
-According to [Invision article](), there are **two billion**-51% of the global population access the internet only from their smartphones.
+According to [Invision article](https://www.invisionapp.com/inside-design/mobile-first-design/), there are **two billion**-51% of the global population access the internet only from their smartphones.
 
 By 2025, the number will jump up to 72,5%. So, if you're not designing for the mobile, your business is in trouble and your users will leave your platform. Maybe not today, but for sure tomorrow. That's why you should invest **80%** of your capital in the mobile development. It's the present not the future!
 
@@ -390,9 +390,24 @@ For example, if a UI engineer sits down to prototype or sketch out an MVP (Minim
 
 <img src="./assets/PRO_TIP_5_2.svg"/>
 
-You may noticed recently that Facebook changed it's design by adopting a new strategy which is saving the same **visual hierarchy** in the smallest screens and just **add few UI patterns** in the largest screens.
+<img src="./icons/icons8_1_key_24px.png" width="16px"/> You don't need to feel the whole screen
 
-<img src="./assets/FACEBOOK_NEW_DESIGN.jpg"/>
+Remember when **960px** was the de facto layout width for desktop-size designs? These days you’d be hard-pressed to find a phone with a resolution that low.
+
+So it’s no surprise that when most of us open our design tool of choice on our high resolution displays, we give ourselves at least 1200-1400px of space to fill. But just because you have the space, doesn’t mean you need to use it.
+
+<img src="./assets/PRO_TIP_5_3.svg"/>
+
+If you only need 600px, use 600px. Spreading things out or making things unnecessarily wide just makes an interface harder to interpret, while a little extra space around the edges never hurt anyone.
+
+<img src="./assets/PRO_TIP_5_4.svg"/>
+
+Give each element just the space it needs — don’t make something worse just to make it match something else.
+
+<img src="./icons/icons8_2_key_24px.png" width="16px"/> Shrink the canvas
+
+If you’re having a hard time designing a small interface on a large canvas, shrink the canvas! A lot of the time it’s easier to design something small when the constraints are real. If you’re building a responsive web application, try starting with a ~400px canvas and designing the mobile layout first.
+
 </details>
 
 ---
