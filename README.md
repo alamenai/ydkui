@@ -97,12 +97,12 @@ These are the requirements to design your UI.
 
 I have this question for you:
 
-<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Why do you need to design perfect UI with all details then implement it?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Why do you need to design a perfect user interface with all details and then implement it?</i>
 
 I have another question for you:
 
 
-<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Did you feel frustrated in the stage of implementation of a new feature because the design does not take programming limits in consideration?</i>
+<i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Did you feel frustrated in the stage of implementation of a new feature because the design does not consider programming limits?</i>
 
 My last question is:
 
@@ -110,13 +110,13 @@ My last question is:
 
 Ha! I know you're thinking in Agile but you're working with the Waterfall approach.
 
-Indeed, people get confused when they switch from task to other per day even in the same domain, it happened to me usually, especially when it comes to designing different concepts of user interfaces per day.
+Indeed, people get confused when they switch from one task to another per day even in the same domain, it happened to me usually, especially when it comes to designing different concepts of user interfaces per day.
 
-Furthermore, people want to start a thing and finish it once time. They want to make it perfect from the beginning! Even with **low resource** and in **limited time**. It happens most of the time in early-stage **startups**.
+Furthermore, people want to start a thing and finish it one time. They want to make it perfect from the beginning! Even with **low resource** and in **limited time**. It happens most of the time in early-stage **startups**.
 
 So, let me tell you something: **Details do not matter when you start from scratch.**
 
-The hard thing about the design is when someone asks you: Why you take this decision?
+The hard thing about the design is when someone asks you: Why did you take this decision?
 
 <i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Why you chose this palette of colors?</i>
 
@@ -124,7 +124,7 @@ The hard thing about the design is when someone asks you: Why you take this deci
 
 <i> <img src="./icons/icons8_confusion_24px.png" width="16px"/>   Why you chose this style of icons?</i>
 
-If you have not a Design System in place, creating **consistent** user interfaces is very hard, and focusing in-depth on **details**, will lose **time**, **effort**, and of course the **consistency** of your user interfaces.
+If you don't have a Design System in place, creating **consistent** user interfaces is very hard, and focusing in-depth on **details**, will lose **time**, **effort**, and of course the **consistency** of your user interfaces.
 
 <img src="./assets/PRO_TIP_2_1.svg"/>
 
@@ -132,13 +132,13 @@ So, what's the solution here?
 
 As I mentioned in the title: **Design few, Implement few, Repeat.**
 
-In the earliest stage of the new design or new feature, you don't need to stick on the **high-level** decisions about the foundation of your design ( Spacing, Color, Typography, Iconography). I know they matter but not in the beginning, right?
+In the earliest stage of the new design or new feature, you don't need to stick to the **high-level** decisions about the foundation of your design ( Spacing, Color, Typography, Iconography). I know they matter but not in the beginning, right?
 
-Let's say, when you were having a shower you came up with an idea for a new killer feature, and you want to make it more tangible for your teammates and the stakeholders to get buy-in. Adding new features means a new investment of money and time and what's matter later for any company is: **Revenue**.
+Let's say, when you were having a shower you came up with an idea for a new killer feature, and you want to make it more tangible for your teammates and the stakeholders to get buy-in. Adding new features means a new investment of money and time and what matter later for any company is: **Revenue**.
 
 The first thing, you need to do is ignore all details ( nice-to-have ) and just focus on the requirements ( must-to-have ).
 
-So, I recommend this workflow to get quick both of **internal** and **external** feedback:
+So, I recommend this workflow to get quick both **internal** and **external** feedback:
 
 <img src="./icons/icons8_1_key_24px.png" width="16px"/>  Create hand-drawn version.
 
